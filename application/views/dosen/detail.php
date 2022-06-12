@@ -32,8 +32,6 @@
                     <div class="mt-4">
                         <h4><?=$dosen->nama?></h4>
                         <p>Foto Dosen</p>
-                        <?php echo $error;?>
-                        <br/>
                         <br/>
                         <a href="https://www.instagram.com/gigihzhafrans_/" target="_blank"><button class="btn btn-outline-info">Instagram</button></a>
                         <br/>

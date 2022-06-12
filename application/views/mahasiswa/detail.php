@@ -25,7 +25,7 @@
             </tr>
         </tbody>
     </table>
-    <div class="col-md-5 mb-3" >
+    <div class="col-md-5 mb-2" >
         <div class="card">
             <div class="card-body">
                 <div class="align-items-center text-center">
@@ -33,8 +33,6 @@
                     <div class="mt-4">
                         <h4><?=$siswa->nama?></h4>
                         <p>Foto Mahasiswa</p>
-                        <?php echo $error;?>
-                        <br/>
                         <br/>
                         <a href="https://www.instagram.com/m_fendy13/" target="_blank"><button class="btn btn-outline-info">Instagram</button></a>
                         <br/>
